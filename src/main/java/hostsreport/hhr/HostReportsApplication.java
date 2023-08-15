@@ -10,4 +10,5 @@ public class HostReportsApplication {
 		SpringApplication.run(HostReportsApplication.class, args);
 	}
 
+
 }
